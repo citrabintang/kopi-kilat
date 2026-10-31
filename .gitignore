@@ -1,8 +1,4 @@
 /*
 !/.gitignore
 !/README.md
-!/sites/
-/sites/*
-!/sites/kopi-kilat/
-/sites/kopi-kilat/*
-!/sites/kopi-kilat/dist/
+!/website/
