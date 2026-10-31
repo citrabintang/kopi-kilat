@@ -1,4 +1,7 @@
 /*
 !/.gitignore
 !/README.md
-!/website/
+!/index.html
+!/style.css
+!/app.js
+!/assets/
